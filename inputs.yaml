@@ -1,0 +1,8 @@
+---
+first_file:
+    class: File
+    path: first.txt
+second_file:
+    class: File
+    path: second.txt
+output_dir: /gscmnt/gc2764/cad/jgarza/cromwell-output-gatherer/final_outputs
